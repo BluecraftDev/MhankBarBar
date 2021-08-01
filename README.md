@@ -18,6 +18,5 @@ ___
 5. ❗️ Closed issue [#74](https://github.com/MhankBarBar/termux-wabot/issues/74) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
 <!--END_SECTION:activity-->
 ---
-### :zap: Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
