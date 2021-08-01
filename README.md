@@ -3,12 +3,13 @@
 <!--
 ___
 ![Metrics](https://github.com/MhankBarBar/MhankBarBar/blob/master/github-metrics.svg)
--->
 ___
+-->
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=auto)](https://github.com/mhankbarbar/termux-wabot)
 -->
 
+---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com/MhankBarBar/flask-webapi-example/issues/1) in [MhankBarBar/flask-webapi-example](https://github.com/MhankBarBar/flask-webapi-example)
