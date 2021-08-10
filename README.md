@@ -1,4 +1,3 @@
-## Yahooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm MhankBarBar
 <img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/1.jpg"/>
 <!--
 ___
@@ -10,14 +9,21 @@ ___
 -->
 
 ---
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/MhankBarBar/flask-webapi-example/issues/1) in [MhankBarBar/flask-webapi-example](https://github.com/MhankBarBar/flask-webapi-example)
-2. ❗️ Closed issue [#64](https://github.com/MhankBarBar/termux-wabot/issues/64) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-3. ❗️ Closed issue [#67](https://github.com/MhankBarBar/termux-wabot/issues/67) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-4. ❗️ Closed issue [#70](https://github.com/MhankBarBar/termux-wabot/issues/70) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-5. ❗️ Closed issue [#74](https://github.com/MhankBarBar/termux-wabot/issues/74) in [MhankBarBar/termux-wabot](https://github.com/MhankBarBar/termux-wabot)
-<!--END_SECTION:activity-->
+```python
+class say_hello:
+
+    def __init__(self, text) -> None:
+        self.text = text
+
+    def __str__(self) -> str:
+        return self.text
+
+    def __repr__(self) -> str:
+        return self.__str__()
+
+if __name__ == "__main__":
+    print(say_hello("Hello there 👋, I'm MhankBarBar, Nice to meet you all!"))
+```
 ---
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-633-blue)
