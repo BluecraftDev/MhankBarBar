@@ -26,7 +26,7 @@ if __name__ == "__main__":
 ```
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-466-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-418-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420521%20lines%20of%20code-blue)
 
@@ -40,7 +40,7 @@ if __name__ == "__main__":
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -71,15 +71,15 @@ Sunday       67 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       ████████████████████████░   99.49% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Python                   3 hrs 2 mins        ████████████████████████░   99.43% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.0%
+Windows                  3 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -100,5 +100,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MhankBarBar/MhankBarBar/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2021
+ Last Updated on 18/08/2021
 <!--END_SECTION:waka-->
