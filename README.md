@@ -26,7 +26,7 @@ if __name__ == "__main__":
 ```
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-418-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-400-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420521%20lines%20of%20code-blue)
 
@@ -71,15 +71,14 @@ Sunday       67 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 2 mins        ████████████████████████░   99.43% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Python                   32 mins             █████████████████████████   99.86% 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.0%
+VS Code                  32 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.0%
+Windows                  32 mins             █████████████████████████   100.0%
 
 ```
 
@@ -100,5 +99,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MhankBarBar/MhankBarBar/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
