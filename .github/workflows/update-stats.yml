@@ -18,4 +18,4 @@ jobs:
           SHOW_PROJECTS: "False"
           COMMIT_BY_ME: "True"
           SHOW_LINES_OF_CODE: "True"
-          LOCALE: "en"
+          LOCALE: "id"
