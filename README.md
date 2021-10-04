@@ -26,65 +26,65 @@ if __name__ == "__main__":
 ```
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-240-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-240-blue)
 
-![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-494968%20baris%20kode-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-494904%20lines%20of%20code-blue)
 
-**🐱 Dataku di GitHub** 
+**🐱 My GitHub Data** 
 
-> 🏆 517 Kontribusi pada 2021
+> 🏆 524 Contributions in the Year 2021
  > 
-> 📦 7.5 MB Digunakan di GitHub Storage 
+> 📦 7.5 MB Used in GitHub's Storage 
  > 
-> 🚫 Tidak sedang bisa dipekerjakan
+> 🚫 Not Opted to Hire
  > 
-> 📜 15 Repositori publik 
+> 📜 16 Public Repositories 
  > 
-> 🔑 16 Repositori pribadi  
+> 🔑 15 Private Repositories  
  > 
-**Aku orangnya nokturnal 🦉** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Pagi       136 commits    █████░░░░░░░░░░░░░░░░░░░░   21.66% 
-🌆 Siang      129 commits    █████░░░░░░░░░░░░░░░░░░░░   20.54% 
-🌃 Petang     206 commits    ████████░░░░░░░░░░░░░░░░░   32.8% 
-🌙 Malam      157 commits    ██████░░░░░░░░░░░░░░░░░░░   25.0%
+🌞 Morning    138 commits    █████░░░░░░░░░░░░░░░░░░░░   21.84% 
+🌆 Daytime    129 commits    █████░░░░░░░░░░░░░░░░░░░░   20.41% 
+🌃 Evening    208 commits    ████████░░░░░░░░░░░░░░░░░   32.91% 
+🌙 Night      157 commits    ██████░░░░░░░░░░░░░░░░░░░   24.84%
 
 ```
-📅 **Paling produktif saat Selasa** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Senin        65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.35% 
-Selasa       133 commits    █████░░░░░░░░░░░░░░░░░░░░   21.18% 
-Rabu         78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
-Kamis        91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Jumat        122 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.43% 
-Sabtu        51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
-Minggu       88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01%
-
-```
-
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-⌚︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-Tidak ada aktivitas dilacak minggu Ini
-
-🔥 Editor: 
-Tidak ada aktivitas dilacak minggu Ini
-
-💻 Sistem Operasi: 
-Tidak ada aktivitas dilacak minggu Ini
+Monday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
+Tuesday      133 commits    █████░░░░░░░░░░░░░░░░░░░░   21.04% 
+Wednesday    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
+Friday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.3% 
+Saturday     51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.07% 
+Sunday       88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92%
 
 ```
 
-**Kebanyakan menulis dalam bahasa Python** 
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-Python                   17 repos            ███████████████░░░░░░░░░░   60.71% 
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   18 repos            ████████████████░░░░░░░░░   64.29% 
 JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
@@ -93,7 +93,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ```
 
 
-**Lini masa**
+**Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/MhankBarBar/MhankBarBar/master/charts/bar_graph.png) 
 
