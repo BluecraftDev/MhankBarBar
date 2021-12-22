@@ -26,13 +26,13 @@ if __name__ == "__main__":
 ```
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-194-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-200-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 673 Contributions in the Year 2021
+> 🏆 674 Contributions in the Year 2021
  > 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
@@ -45,8 +45,8 @@ if __name__ == "__main__":
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    205 commits    ███████░░░░░░░░░░░░░░░░░░   31.3% 
-🌆 Daytime    128 commits    █████░░░░░░░░░░░░░░░░░░░░   19.54% 
+🌞 Morning    206 commits    ███████░░░░░░░░░░░░░░░░░░   31.45% 
+🌆 Daytime    127 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.39% 
 🌃 Evening    185 commits    ███████░░░░░░░░░░░░░░░░░░   28.24% 
 🌙 Night      137 commits    █████░░░░░░░░░░░░░░░░░░░░   20.92%
 
@@ -54,8 +54,8 @@ if __name__ == "__main__":
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
-Tuesday      137 commits    █████░░░░░░░░░░░░░░░░░░░░   20.92% 
+Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Tuesday      138 commits    █████░░░░░░░░░░░░░░░░░░░░   21.07% 
 Wednesday    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
 Thursday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
 Friday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
@@ -98,5 +98,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MhankBarBar/MhankBarBar/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 22/12/2021
 <!--END_SECTION:waka-->
