@@ -26,13 +26,13 @@ if __name__ == "__main__":
 ```
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-171-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 683 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
@@ -54,11 +54,11 @@ if __name__ == "__main__":
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
 Tuesday      138 commits    █████░░░░░░░░░░░░░░░░░░░░   21.07% 
 Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
 Thursday     87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
-Friday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
+Friday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
 Saturday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
 Sunday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21%
 
@@ -98,5 +98,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MhankBarBar/MhankBarBar/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
