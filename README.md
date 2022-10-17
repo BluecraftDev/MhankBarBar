@@ -1,102 +1,22 @@
-<img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/i%20see%20u.jpg"/>
-<!--
-___
-![Metrics](https://github.com/MhankBarBar/MhankBarBar/blob/master/github-metrics.svg)
-___
--->
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=auto)](https://github.com/mhankbarbar/termux-wabot)
--->
+<img align="center" height="auto" src="https://i.imgur.com/SHitcKw.jpeg"/>
 
----
-```python
-class say_hello:
+## 🔥 Github Stats
 
-    def __init__(self, text) -> None:
-        self.text = text
+<img align="right" width="38%" src="https://cdn.waifu.im/7581.jpg"/>
 
-    def __str__(self) -> str:
-        return self.text
+  <a href="https://github.com/MhankBarBar"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MhankBarBar&theme=radical&title_color=ff3068"></a>
+  <a href="https://github.com/MhankBarBar"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=MhankBarBar&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-    def __repr__(self) -> str:
-        return self.__str__()
+<p align="left">
+  <a href="https://github.com/mhankbarbar?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FMhankbarBar"/></a><br>
+  <a href="https://github.com/MhankBarBar?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MhankBarBar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a><br>
+  <a href="https://github.com/mhankbarbar">
+    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mhankbarbar&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a><br>
+   <a href="https://github.com/mhankbarbar?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
-if __name__ == "__main__":
-    print(say_hello("Hello there 👋, I'm MhankBarBar, Nice to meet you all!"))
-```
----
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 20 Contributions in the Year 2022
- > 
-> 📦 7.6 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 15 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    213 commits    ████████░░░░░░░░░░░░░░░░░   32.52% 
-🌆 Daytime    126 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.24% 
-🌃 Evening    180 commits    ██████░░░░░░░░░░░░░░░░░░░   27.48% 
-🌙 Night      136 commits    █████░░░░░░░░░░░░░░░░░░░░   20.76%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
-Tuesday      139 commits    █████░░░░░░░░░░░░░░░░░░░░   21.22% 
-Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
-Thursday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-Friday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
-Saturday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-Sunday       81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   19 repos            ███████████████░░░░░░░░░░   61.29% 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/MhankBarBar/MhankBarBar/master/charts/bar_graph.png) 
-
-
- Last Updated on 27/01/2022 01:12:54 UTC
-<!--END_SECTION:waka-->
+<p align="right">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B918F7&width=435&lines=I'm+currently+learning+javacript+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+</p>
