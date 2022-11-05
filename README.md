@@ -14,8 +14,15 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MhankBarBar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a><br>
   <a href="https://github.com/mhankbarbar">
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mhankbarbar&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a><br>
-  <a href="https://wakatime.com/@fc8062f4-99e5-4965-95a6-6378e2d22707"><img src="https://wakatime.com/badge/user/fc8062f4-99e5-4965-95a6-6378e2d22707.svg"/></a>
+  <a href="https://github.com/mhankbarbar?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 <p align="right">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B918F7&width=435&lines=I'm+currently+learning+javacript+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+</p>
+
+## 🕛 Wakatime
+<p align="center">
+  <a href="https://wakatime.com/@fc8062f4-99e5-4965-95a6-6378e2d22707"><img src="https://wakatime.com/badge/user/fc8062f4-99e5-4965-95a6-6378e2d22707.svg"/></a></br>
+  <a href="https://wakatime.com/@MhankBarBar"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MhankBarBar"/></a>
 </p>
