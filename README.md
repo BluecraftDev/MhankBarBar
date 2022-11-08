@@ -18,7 +18,7 @@
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 <p align="right">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B918F7&width=435&lines=I'm+currently+learning+javacript+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B918F7&width=435&lines=I'm+currently+learning+C%2B%2B+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
 ## 🕛 Wakatime
