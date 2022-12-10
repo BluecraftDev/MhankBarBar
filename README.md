@@ -13,7 +13,7 @@
   <a href="https://github.com/MhankBarBar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/MhankBarBar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a><br>
   <a href="https://github.com/mhankbarbar">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mhankbarbar&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a><br>
+    <img alt="views" title="GitHub profile views" src="https://visitor-badge.glitch.me/badge?page_id=mhankbarbar&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a><br>
   <a href="https://github.com/mhankbarbar?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
