@@ -1,4 +1,4 @@
-<img align="center" height="auto" src="https://i.imgur.com/SHitcKw.jpeg"/>
+<img align="center" height="auto" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/Python/Aoba_Suzukaze_techgo_Python_For_Beginners.png"/>
 
 ## 🔥 Github Stats
 
